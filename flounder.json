@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1715704272,
-      "filename": "lineage-rev-14.1-20240514-UNOFFICIAL-flounder.zip",
-      "id": "adefe62703aee845c893c2b981f9edd2",
+      "datetime": 1723325819,
+      "filename": "lineage-rev-14.1-20240810-UNOFFICIAL-flounder.zip",
+      "id": "144276c1897c1095155b69199e24b513bca0707245fe1440ffa5d5e7f7c1c033",
       "romtype": "UNOFFICIAL",
-      "size": 651613336,
-      "url": "https://sourceforge.net/projects/sirrgb-roms/files/Flounder/LineageOS/lineage-rev-14.1-20240514-UNOFFICIAL-flounder.zip/download",
+      "size": 563848228,
+      "url": "https://github.com/SirRGB/releases/releases/download/20240810-lineage_flounder/lineage-rev-14.1-20240810-UNOFFICIAL-flounder.zip",
       "version": "14.1"
     }
   ]
