@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1723325819,
-      "filename": "lineage-rev-14.1-20240810-UNOFFICIAL-flounder.zip",
-      "id": "144276c1897c1095155b69199e24b513bca0707245fe1440ffa5d5e7f7c1c033",
+      "datetime": 1725823964,
+      "filename": "lineage-rev-14.1-20240908-UNOFFICIAL-flounder.zip",
+      "id": "5cf3861d8149f9cd317c4e3dc31f6aef1d0d18f5bc24c1d2a9e7d83c031d90c0",
       "romtype": "UNOFFICIAL",
-      "size": 563848228,
-      "url": "https://github.com/SirRGB/releases/releases/download/20240810-lineage_flounder/lineage-rev-14.1-20240810-UNOFFICIAL-flounder.zip",
+      "size": 563540802,
+      "url": "https://github.com/SirRGB/releases/releases/download/20240908-lineage_flounder/lineage-rev-14.1-20240908-UNOFFICIAL-flounder.zip",
       "version": "14.1"
     }
   ]
