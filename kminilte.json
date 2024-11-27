@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1723307682,
-      "filename": "lineage-rev-14.1-20240810-UNOFFICIAL-kminilte.zip",
-      "id": "db34af98e8be3381001a6934f54a07f1ebdcb5665878ff2700d079887017e3c8",
+      "datetime": 1732719883,
+      "filename": "lineage-rev-14.1-20241127-UNOFFICIAL-kminilte.zip",
+      "id": "55a2b8c8ff59d365278e3f716b948416d8371514c44dddf3c64e9ba2fa241a3f",
       "romtype": "UNOFFICIAL",
-      "size": 456125644,
-      "url": "https://github.com/SirRGB/releases/releases/download/20240810-lineage_kminilte/lineage-rev-14.1-20240810-UNOFFICIAL-kminilte.zip",
+      "size": 458539368,
+      "url": "https://github.com/SirRGB/releases/releases/download/20241127-lineage_kminilte/lineage-rev-14.1-20241127-UNOFFICIAL-kminilte.zip",
       "version": "14.1"
     }
   ]
