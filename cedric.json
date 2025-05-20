@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1747253094,
-      "filename": "lineage-rev-17.1-20250514-cedric-signed.zip",
-      "id": "48d8c4976a4bdd9350a9e5776cd01da57b1cc7a93d4c6a3736071bdce5362167",
+      "datetime": 1747770992,
+      "filename": "lineage-rev-17.1-20250520-cedric-signed.zip",
+      "id": "bf67d8ea69e22ce497d10b32f5acad60d928b32eb88322a4bd28ba0aa2266240",
       "romtype": "UNOFFICIAL",
-      "size": 698288587,
-      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202505142212-lineage-rev-17.1-20250514-cedric-signed/lineage-rev-17.1-20250514-cedric-signed.zip",
+      "size": 693225069,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202505202003-lineage-rev-17.1-20250520-cedric-signed/lineage-rev-17.1-20250520-cedric-signed.zip",
       "version": "17.1"
     }
   ]
