@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1748293052,
+      "datetime": 1748294700,
       "filename": "lineage-rev-18.1-20250526-potter-signed.zip",
-      "id": "0918e86601bb0061389bb13ca1040c1acd66627b64ff61b7df5fceae7b6d3579",
+      "id": "77e1656b0ee1d5dd285b7cc098834d1264b350adb04ca8a54beb285f0b8716dc",
       "romtype": "UNOFFICIAL",
-      "size": 792094129,
-      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202505262122-lineage-rev-18.1-20250526-potter-signed/lineage-rev-18.1-20250526-potter-signed.zip",
+      "size": 792094419,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202505262142-lineage-rev-18.1-20250526-potter-signed/lineage-rev-18.1-20250526-potter-signed.zip",
       "version": "18.1"
     }
   ]
