@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1752405690,
+      "filename": "lineage-rev-17.1-20250713-griffin-signed.zip",
+      "id": "5b8f82e28723862ee7cffd419ae74e98f08fa5c6f0ca1c0a5cbf304ad1967883",
+      "romtype": "UNOFFICIAL",
+      "size": 772542020,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202507131300-lineage-rev-17.1-20250713-griffin-signed/lineage-rev-17.1-20250713-griffin-signed.zip",
+      "version": "17.1"
+    }
+  ]
+}
