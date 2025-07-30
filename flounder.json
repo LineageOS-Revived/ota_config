@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1747857488,
-      "filename": "lineage-rev-14.1-20250521-flounder-signed.zip",
-      "id": "1b9561bcbaf6d2f6020ef2927111d5a1d265d186f811736e5af07ee2f3fd3110",
+      "datetime": 1753908501,
+      "filename": "lineage-rev-14.1-MICROG-20250730-flounder-signed.zip",
+      "id": "360a88910bd1cc4cbb1d627975ef4dd573e1945a01dc88a9c8fc9bbb640c5e91",
       "romtype": "UNOFFICIAL",
-      "size": 613409302,
-      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202505212019-lineage-rev-14.1-20250521-flounder-signed/lineage-rev-14.1-20250521-flounder-signed.zip",
+      "size": 615290662,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202507302246-lineage-rev-14.1-MICROG-20250730-flounder-signed/lineage-rev-14.1-MICROG-20250730-flounder-signed.zip",
       "version": "14.1"
     }
   ]
