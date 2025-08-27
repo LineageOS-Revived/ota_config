@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1756331752,
+      "filename": "lineage-rev-17.1-20250827-j6lte-signed.zip",
+      "id": "c0f0a2e858714357e0b94d2f839dca7557eadf95b2ca89fe238b551fa3b339c6",
+      "romtype": "UNOFFICIAL",
+      "size": 656261569,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202508272306-lineage-rev-17.1-20250827-j6lte-signed/lineage-rev-17.1-20250827-j6lte-signed.zip",
+      "version": "17.1"
+    }
+  ]
+}
