@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1756334725,
+      "filename": "lineage-rev-17.1-20250827-j7velte-signed.zip",
+      "id": "423662a47a9f798f84e21b81e586344a0dc09c7753e07ddc6041205c0fc021e4",
+      "romtype": "UNOFFICIAL",
+      "size": 653175500,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202508272306-lineage-rev-17.1-20250827-j7velte-signed/lineage-rev-17.1-20250827-j7velte-signed.zip",
+      "version": "17.1"
+    }
+  ]
+}
