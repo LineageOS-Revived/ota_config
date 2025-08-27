@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1756330697,
+      "filename": "lineage-rev-17.1-20250827-on7xelte-signed.zip",
+      "id": "9578cad84dd0d085a56e98aab65450571a51f146fe9f09afe4c6388afaf24c0f",
+      "romtype": "UNOFFICIAL",
+      "size": 657740076,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202508272306-lineage-rev-17.1-20250827-on7xelte-signed/lineage-rev-17.1-20250827-on7xelte-signed.zip",
+      "version": "17.1"
+    }
+  ]
+}
