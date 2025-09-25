@@ -1,1 +1,13 @@
-{"response":[{"datetime": "1722702179","filename": "lineage-rev-18.1-20240803-UNOFFICIAL-addison.zip","id": "61269374ce6cb87fd1af736a7571dc287cb310b95281e4b4fa08f1683c4b38ac","romtype": "UNOFFICIAL","size": 783362442,"url": "https://github.com/SirRGB/releases/releases/download/202408031735-lineage-rev-18.1-20240803-UNOFFICIAL-addison/lineage-rev-18.1-20240803-UNOFFICIAL-addison.zip","version": "18.1"}]}
+{
+  "response": [
+    {
+      "datetime": 1758841229,
+      "filename": "lineage-rev-18.1-20250925-addison-signed.zip",
+      "id": "b263c3eeee0acaddb9be302dcbf656bc5a67da4d3d6db6c9c87f8b3c1d7b55be",
+      "romtype": "UNOFFICIAL",
+      "size": 798963632,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202509252055-lineage-rev-18.1-20250925-addison-signed/lineage-rev-18.1-20250925-addison-signed.zip",
+      "version": "18.1"
+    }
+  ]
+}
