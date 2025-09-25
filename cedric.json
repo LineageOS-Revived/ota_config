@@ -1,1 +1,13 @@
-{"response":[{"datetime": "1722629365","filename": "lineage-rev-18.1-20240802-UNOFFICIAL-cedric.zip","id": "3cfb64f4ccfa79d1d464276b4d9f18bbd64031f1f8946a711b9929a2db8a948e","romtype": "UNOFFICIAL","size": 737317625,"url": "https://github.com/SirRGB/releases/releases/download/202408022016-lineage-rev-18.1-20240802-UNOFFICIAL-cedric/lineage-rev-18.1-20240802-UNOFFICIAL-cedric.zip","version": "18.1"}]}
+{
+  "response": [
+    {
+      "datetime": 1758833824,
+      "filename": "lineage-rev-18.1-20250925-cedric-signed.zip",
+      "id": "41fba623f14a7e666bb01c7abaed234af2dabcb2020f9cf624b9b6ca777b43d7",
+      "romtype": "UNOFFICIAL",
+      "size": 752872748,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202509252055-lineage-rev-18.1-20250925-cedric-signed/lineage-rev-18.1-20250925-cedric-signed.zip",
+      "version": "18.1"
+    }
+  ]
+}
