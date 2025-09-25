@@ -1,1 +1,13 @@
-{"response":[{"datetime": "1723468746","filename": "lineage-rev-18.1-20240812-UNOFFICIAL-a5y17lte.zip","id": "6325e28409f6a44eaa21357e216ef5aa13788e644bddc03a9d812d79ae0cda01","romtype": "UNOFFICIAL","size": 661140058,"url": "https://github.com/SirRGB/releases/releases/download/202408121419-lineage-rev-18.1-20240812-UNOFFICIAL-a5y17lte/lineage-rev-18.1-20240812-UNOFFICIAL-a5y17lte.zip","version": "18.1"}]}
+{
+  "response": [
+    {
+      "datetime": 1758836472,
+      "filename": "lineage-rev-18.1-20250925-a5y17lte-signed.zip",
+      "id": "0d546f3bf24d40ae2684b4391b58a92c541dabc01e03a13ac67bcfbc724ea873",
+      "romtype": "UNOFFICIAL",
+      "size": 684426862,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202509252055-lineage-rev-18.1-20250925-a5y17lte-signed/lineage-rev-18.1-20250925-a5y17lte-signed.zip",
+      "version": "18.1"
+    }
+  ]
+}
