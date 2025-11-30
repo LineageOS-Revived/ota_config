@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1758839449,
-      "filename": "lineage-rev-18.1-20250925-a7y17lte-signed.zip",
-      "id": "20ded3090900a50542208f2d9fc610fbef06c3bda45bd3dc24921b401753f1ef",
+      "datetime": 1764530663,
+      "filename": "lineage-rev-18.1-20251130-a7y17lte-signed.zip",
+      "id": "f03953ec12f16ad02c395ae64a3b750dba0db2fe8e688467e5c532edc676ef95",
       "romtype": "UNOFFICIAL",
-      "size": 684204333,
-      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202509252055-lineage-rev-18.1-20250925-a7y17lte-signed/lineage-rev-18.1-20250925-a7y17lte-signed.zip",
+      "size": 690986716,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202511301759-lineage-rev-18.1-20251130-a7y17lte-signed/lineage-rev-18.1-20251130-a7y17lte-signed.zip",
       "version": "18.1"
     }
   ]
