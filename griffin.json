@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1764519589,
+      "datetime": 1764524530,
       "filename": "lineage-rev-18.1-20251130-griffin-signed.zip",
-      "id": "0c55768868ce22820c57d87f5726f172b1168d209fa1f0800f69c0823ff5362d",
+      "id": "286186b48c6a9ec473ed1be572e14f585594de4662674273828935820dfd0041",
       "romtype": "UNOFFICIAL",
-      "size": 822281723,
-      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202511301611-lineage-rev-18.1-20251130-griffin-signed/lineage-rev-18.1-20251130-griffin-signed.zip",
+      "size": 827837031,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202511301740-lineage-rev-18.1-20251130-griffin-signed/lineage-rev-18.1-20251130-griffin-signed.zip",
       "version": "18.1"
     }
   ]
