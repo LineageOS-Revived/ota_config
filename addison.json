@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1764532997,
-      "filename": "lineage-rev-18.1-20251130-addison-signed.zip",
-      "id": "7ed3fed20df9df5be4f30c1fb31a7f76c5a188d2da803b73398b212da180a98c",
+      "datetime": 1788212010,
+      "filename": "lineage-rev-18.1-20260831-addison-signed.zip",
+      "id": "9d5ba48256bf4f0f967d204c18d2f4b425bed5608b2f7604ede8998459016a81",
       "romtype": "UNOFFICIAL",
-      "size": 805462376,
-      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202511301759-lineage-rev-18.1-20251130-addison-signed/lineage-rev-18.1-20251130-addison-signed.zip",
+      "size": 875759841,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202608311800-lineage-rev-18.1-20260831-addison-signed/lineage-rev-18.1-20260831-addison-signed.zip",
       "version": "18.1"
     }
   ]
