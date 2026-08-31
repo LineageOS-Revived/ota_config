@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1773764534,
-      "filename": "lineage-rev-18.1-20260317-cedric-signed.zip",
-      "id": "230d39552c149e568f0f93f5cc177fa80e74e822cca017913a50d2fe5dc940ec",
+      "datetime": 1788202614,
+      "filename": "lineage-rev-18.1-20260831-cedric-signed.zip",
+      "id": "b7ba3bc5b7513b3f48e081b11b18e197746ec0189d636648e1b9871ff4bd782c",
       "romtype": "UNOFFICIAL",
-      "size": 762867256,
-      "url": "",
+      "size": 812563103,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202608311800-lineage-rev-18.1-20260831-cedric-signed/lineage-rev-18.1-20260831-cedric-signed.zip",
       "version": "18.1"
     }
   ]
