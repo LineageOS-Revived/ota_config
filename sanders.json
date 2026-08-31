@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1788201271,
+      "filename": "lineage-rev-18.1-20260831-sanders-signed.zip",
+      "id": "3940c2b051501ec0226938f7de95db646004c33160c27caf9c3c6fddea902ef9",
+      "romtype": "UNOFFICIAL",
+      "size": 795847963,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202608311800-lineage-rev-18.1-20260831-sanders-signed/lineage-rev-18.1-20260831-sanders-signed.zip",
+      "version": "18.1"
+    }
+  ]
+}
