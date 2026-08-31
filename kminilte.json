@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1780599841,
-      "filename": "lineage-rev-14.1-MICROG-20260604-kminilte-signed.zip",
-      "id": "5bd7c4f7d52567127582d03aa5737e0d4609c7dbcfebfd3b217cfc42abdce7cc",
+      "datetime": 1788195046,
+      "filename": "lineage-rev-14.1-MICROG-20260831-kminilte-signed.zip",
+      "id": "587538ab0555810fb96ffc7d6b91f1455897585e2e28e4d54c96b03e2669769b",
       "romtype": "UNOFFICIAL",
-      "size": 455259222,
-      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202606041851-lineage-rev-14.1-MICROG-20260604-kminilte-signed/lineage-rev-14.1-MICROG-20260604-kminilte-signed.zip",
+      "size": 454691748,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202608311625-lineage-rev-14.1-MICROG-20260831-kminilte-signed/lineage-rev-14.1-MICROG-20260831-kminilte-signed.zip",
       "version": "14.1"
     }
   ]
