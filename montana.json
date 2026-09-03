@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1788204820,
-      "filename": "lineage-rev-18.1-20260831-montana-signed.zip",
-      "id": "4e73953ca10e5a16dd0c77255f046df3c2afd0c080f684ab1e9ef6b735eaa4dc",
+      "datetime": 1788460177,
+      "filename": "lineage-rev-18.1-20260903-montana-signed.zip",
+      "id": "4cf8ab236a00d78db2f0c1eab10483f29bbbad75b8aa65f7e653c16b672934bf",
       "romtype": "UNOFFICIAL",
-      "size": 815974453,
-      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202608311800-lineage-rev-18.1-20260831-montana-signed/lineage-rev-18.1-20260831-montana-signed.zip",
+      "size": 815907303,
+      "url": "https://github.com/LineageOS-Revived/ota_config/releases/download/202609031819-lineage-rev-18.1-20260903-montana-signed/lineage-rev-18.1-20260903-montana-signed.zip",
       "version": "18.1"
     }
   ]
